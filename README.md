@@ -1,4 +1,4 @@
-### Hi there 👋
+[![MasterHead](https://i.ibb.co/pZxn90h/banner.png)](https://github.com/Mindik)
 
 <!--
 **Mindik/Mindik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
